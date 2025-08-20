@@ -14,9 +14,9 @@ const Hero = () => {
             className="rounded-full"
             />
             <div className="max-w-xl">
-              <h1 className="text-3xl font-bold">Hello I'm Gaël</h1>
+              <h1 className="text-3xl font-bold">Hello I&apos;m Gaël</h1>
               <p className="py-6">
-                  I'm a software developer, IT helpdesk specialist and ardent Cyber Secuirity Enthusiast based in Douala, Cameroon. I specialize in building (and occasionally designing) exceptional websites, applications, and everything in between.
+                  I&apos;m a software developer, IT helpdesk specialist and ardent Cyber Secuirity Enthusiast based in Douala, Cameroon. I specialize in building (and occasionally designing) exceptional websites, applications, and everything in between.
               </p>        
               <SocialLinks />
             </div>
