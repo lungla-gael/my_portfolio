@@ -2,6 +2,6 @@ export interface ProjectType {
   // id: number;
   name: string;
   description: string;
-  link: URL;
+  link: string;
   // language: string;
 };
